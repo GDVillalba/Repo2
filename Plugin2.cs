@@ -35,7 +35,8 @@ namespace PluginsDemo2
 
                 try
                 {
-                    // Plug-in business logic goes here.  
+                    // Plug-in business logic goes here.
+                    // Comentario Plugin 2
                 }
 
                 catch (FaultException<OrganizationServiceFault> ex)
